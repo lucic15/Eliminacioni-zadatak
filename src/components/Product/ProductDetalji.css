@@ -1,0 +1,52 @@
+.slika2{
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:3rem;
+    width: 50%;
+    border: 5px solid black;
+
+}
+.minecraft{
+    text-align: center;
+    border: 5px solid black;
+    background-color: rgb(41, 40, 40);
+    width: 60%;
+    height: 100%;
+    border-radius: 15px;
+    margin: auto;
+    padding: 1%;
+    color: aliceblue;
+   
+}
+
+.stara{
+
+    display: inline;
+    text-decoration:line-through;
+}
+.nova{
+    display: inline;
+    font-size: 30px;
+    color: rgb(242, 129, 129);
+}
+.tekst{
+    font-size: 20px;
+}
+
+.popust{
+    display: inline;
+    color: orange;
+}
+
+.back{
+    border: 2px solid black;
+    background-color: orange;
+    transition: 0.3s;
+}
+
+.back:hover{
+    
+    background-color: rgb(175, 116, 7);
+}
